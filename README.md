@@ -37,7 +37,7 @@ Pipeline:
 - HuggingFace Transformers
 - DPR (Dense Passage Retrieval)
 - GPT-2
-- FAISS / vector similarity search (if used)
+- FAISS / vector similarity search 
 
 ---
 
